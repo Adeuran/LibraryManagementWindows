@@ -10,3 +10,7 @@ C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\Libra
 C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.BookManagementForm.resources
 C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.LibraryManagementForm.resources
 C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.UserManagementForm.resources
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\bin\Debug\MySql.Data.dll
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\bin\Debug\Google.Protobuf.dll
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\bin\Debug\MySql.Data.xml
+C:\Users\yongin\source\repos\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CopyComplete

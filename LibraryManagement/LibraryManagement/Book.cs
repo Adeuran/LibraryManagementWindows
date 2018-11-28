@@ -13,9 +13,9 @@ namespace LibraryManagement
         public string Publisher { get; set; }
         public int Page { get; set; }
 
-        public int UserId { get; set; }
+        public int? UserId { get; set; }
         public string UserName { get; set; }
         public bool isBorrowed { get; set; }
-        public DateTime BorrewedAt { get; set; }
+        public DateTime BorrowedAt { get; set; }
     }
 }
